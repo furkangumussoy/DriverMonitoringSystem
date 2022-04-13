@@ -5,7 +5,7 @@ A system that actively monitors the driver and warns them with a beep if the dri
 
 Dependencies : 
 
-OpenCV
-Tensorflow
-Keras
-Pygame
+-OpenCV
+-Tensorflow
+-Keras
+-Pygame
